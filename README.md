@@ -16,7 +16,7 @@ The HR Analytics Dashboard provides a comprehensive view of attrition rate trend
  • 🔢	Excel
 
 
-# Steps Overview
+# Process
 
 •	Dataset collected from online.
 
