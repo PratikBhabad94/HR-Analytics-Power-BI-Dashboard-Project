@@ -32,7 +32,7 @@ The HR Analytics Dashboard provides a comprehensive view of attrition rate trend
 # Dashboard Content
 
 
-# 1st Sheet : Department level filters.
+1st Sheet : Department level filters.
 
 2nd Sheet : KPIs
 
@@ -84,7 +84,9 @@ This chart shows job roles with higher attrition rates.
 
 8th sheet : job role
 
-The matrix chart shows job satisfaction ratings for different job roles or positions. It enables us to identify areas of high or low job satisfaction within organization.
+
+•	The matrix chart shows job satisfaction ratings for different job roles or positions. It enables us to identify areas of high or low job satisfaction within organization.
+
 
 
 
