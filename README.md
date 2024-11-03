@@ -36,6 +36,7 @@ The HR Analytics Dashboard provides a comprehensive view of attrition rate trend
 
 
 2nd Sheet : KPIs
+
 •	Employee Count : This provides a snapshot of the total number of employees in organization.
 
 •	Attrition count : This indicates the number of employees who have left the company.
