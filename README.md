@@ -1,7 +1,7 @@
 # HR-Analytics-Power-BI-dashboard-project
 
 
-ABOUT PROJECT :
+# ABOUT PROJECT :
 
 The HR Analytics Dashboard is a Power BI-based project that provides insightful visualizations and analysis of Human Recourses data. Also help an organization to improve employee performance and improve employee retention. 
 
