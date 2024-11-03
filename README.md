@@ -32,62 +32,27 @@ The HR Analytics Dashboard provides a comprehensive view of attrition rate trend
 # Dashboard Content
 
 
-1st Sheet : Department level filters.
+1st Sheet : KPI
+Employee Count : This provides a snapshot of the total number of employees in organization.
+Attrition Count : This indicates the number of employees who have left the company.
+Attrition Rate : This calculates the percentage of employees who have left, relative to the total employees count.
+Active Employees : This represents the number of employees who are currently employed in organization.
+Average Age : This shows the average Age of the Employees.
+2nd Sheet : Department Wise Attrition
+This pie chart represents the distribution of attrition across different departments in organization. It allows us to compare attrition rates between departments visually.
 
-2nd Sheet : KPIs
+3rd Sheet : Number of Employees By Age Group
+By creating age groups using clustered column chart, this bar graph illustrates the distribution of employees across different age ranges. It helps identify age-related trends in workforce.
 
-•	Employee Count : This provides a snapshot of the total number of employees in organization.
+4th Sheet : Job Satisfaction Rate
+The matrix chart showcases job satisfaction ratings for different job roles or positions. It enables us to identify areas of high or low job satisfaction within organization.
 
-•	Attrition count : This indicates the number of employees who have left the company.
+5th Sheet : Education Field Wise Attrition
+This bar graph presents the attrition rates categorized by education fields. It helps determine if there are any specific education fields with higher attrition rates.
 
-•	Attrition Rate : This calculates the percentage of employees who have left, relative to the total employees count.
+6th Sheet : Attrition Rate By Gender For Different Age Group
+The donut chart show the attrition rates segmented by gender within different age groups. It provides a visual breakdown of attrition patterns based on age and gender.
 
-•	Average Age : This shows the average Age of the Employees.
-
-•	Average Salary: This shows the average salary of the Employees.
-
-•	Average Years: This shows how many years the employee has worked for organization
-
-•	KPI chart : Distribution between male and female
-
-
-
-3rd Sheet : Attrition by education
-
-This pie chart shows the attrition rates categorized by education fields. It helps determine if there are any specific education fields with higher attrition 
-rates.
-
-
-
-4th Sheet : Attrition by age
-
-This bar graph shows the attrition rates segmented by gender within different age groups.
-
-
-
-5th Sheet : Attrition by years at company
-
-This chart shows how many years an employees worked for an organization and then left.
-
-
-
-6th Sheet : Attrition by salary
-
-This chart shows how many employee left the company because of salary reason.
-
-
-
-7th Sheet : Attrition by job role
-
-This chart shows job roles with higher attrition rates.
-
-
-
-8th sheet : job role
-
-
-The matrix chart shows job satisfaction ratings for different job roles or positions. It enables us to identify areas of high or low job satisfaction within 
-organization.
 
 
 
