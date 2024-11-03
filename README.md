@@ -11,9 +11,9 @@ The HR Analytics Dashboard provides a comprehensive view of attrition rate trend
 
  # Technologies Used
 
-📈 •	Power BI
+ • 📈	Power BI
 
-🔢 Excel
+ • 🔢	Excel
 
 
 
