@@ -32,30 +32,24 @@ The HR Analytics Dashboard provides a comprehensive view of attrition rate trend
 # Dashboard Content
 
 
-1st Sheet : KPI
-Employee Count : This provides a snapshot of the total number of employees in organization.
-Attrition Count : This indicates the number of employees who have left the company.
-Attrition Rate : This calculates the percentage of employees who have left, relative to the total employees count.
-Active Employees : This represents the number of employees who are currently employed in organization.
-Average Age : This shows the average Age of the Employees.
-2nd Sheet : Department Wise Attrition
-This pie chart represents the distribution of attrition across different departments in organization. It allows us to compare attrition rates between departments visually.
+1st Sheet : Department level filters.
 
-3rd Sheet : Number of Employees By Age Group
 
-By creating age groups using clustered column chart, this bar graph illustrates the distribution of employees across different age ranges. It helps identify age-related trends in workforce.
+2nd Sheet : KPIs
+•	Employee Count : This provides a snapshot of the total number of employees in organization.
 
-4th Sheet : Job Satisfaction Rate
+•	Attrition count : This indicates the number of employees who have left the company.
 
-The matrix chart showcases job satisfaction ratings for different job roles or positions. It enables us to identify areas of high or low job satisfaction within organization.
+•	Attrition Rate : This calculates the percentage of employees who have left, relative to the total employees count.
 
-5th Sheet : Education Field Wise Attrition
+•	Average Age : This shows the average Age of the Employees.
 
-This bar graph presents the attrition rates categorized by education fields. It helps determine if there are any specific education fields with higher attrition rates.
+•	Average Salary: This shows the average salary of the Employees.
 
-6th Sheet : Attrition Rate By Gender For Different Age Group
+•	Average Years: This shows how many years the employee has worked for organization
 
-The donut chart show the attrition rates segmented by gender within different age groups. It provides a visual breakdown of attrition patterns based on age and gender.
+•	KPI chart : Distribution between male and female
+
 
 
 
