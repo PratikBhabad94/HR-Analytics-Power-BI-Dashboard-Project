@@ -58,7 +58,7 @@ The HR Analytics Dashboard provides a comprehensive view of attrition rate trend
 
 4th Sheet : Attrition by age
 
-•	This bar graph shows the attrition rates segmented by gender within different age groups.
+•	This bar graph shows the attrition rates segmented by different age groups.
 
 5th Sheet : Attrition by years at company
 
