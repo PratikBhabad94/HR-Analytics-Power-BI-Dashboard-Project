@@ -53,26 +53,32 @@ The HR Analytics Dashboard provides a comprehensive view of attrition rate trend
 
 
 3rd Sheet : Attrition by education
+
 This pie chart shows the attrition rates categorized by education fields. It helps determine if there are any specific education fields with higher attrition rates.
 
 
 4th Sheet : Attrition by age
+
 This bar graph shows the attrition rates segmented by gender within different age groups.
 
 
 5th Sheet : Attrition by years at company
+
 This chart shows how many years an employees worked for an organization and then left.
 
 
 6th Sheet : Attrition by salary
+
 This chart shows how many employee left the company because of salary reason.
 
 
 7th Sheet : Attrition by job role
+
 This chart shows job roles with higher attrition rates.
 
 
 8th sheet : job role
+
 The matrix chart shows job satisfaction ratings for different job roles or positions. It enables us to identify areas of high or low job satisfaction within organization.
 
 
