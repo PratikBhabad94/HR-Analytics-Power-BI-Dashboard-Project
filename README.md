@@ -54,7 +54,8 @@ The HR Analytics Dashboard provides a comprehensive view of attrition rate trend
 
 3rd Sheet : Attrition by education
 
-This pie chart shows the attrition rates categorized by education fields. It helps determine if there are any specific education fields with higher attrition rates.
+This pie chart shows the attrition rates categorized by education fields. It helps determine if there are any specific education fields with higher attrition 
+rates.
 
 
 
@@ -85,9 +86,9 @@ This chart shows job roles with higher attrition rates.
 8th sheet : job role
 
 
+The matrix chart shows job satisfaction ratings for different job roles or positions. It enables us to identify areas of high or low job satisfaction within 
+organization.
 
-	The matrix chart shows job satisfaction ratings for different job roles or positions. It enables us to identify areas of high or low job satisfaction within 
-  organization.
 
 
 
