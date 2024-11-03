@@ -19,9 +19,13 @@ The HR Analytics Dashboard provides a comprehensive view of attrition rate trend
 # Steps Overview
 
 •	Dataset collected from online.
+
 •	Understanding the Data.
+
 •	Data Cleaning & Processing in Power BI
+
 •	Power BI Dashboard setup
+
 •	Data Visualization.
 
 
