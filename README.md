@@ -42,15 +42,19 @@ Average Age : This shows the average Age of the Employees.
 This pie chart represents the distribution of attrition across different departments in organization. It allows us to compare attrition rates between departments visually.
 
 3rd Sheet : Number of Employees By Age Group
+
 By creating age groups using clustered column chart, this bar graph illustrates the distribution of employees across different age ranges. It helps identify age-related trends in workforce.
 
 4th Sheet : Job Satisfaction Rate
+
 The matrix chart showcases job satisfaction ratings for different job roles or positions. It enables us to identify areas of high or low job satisfaction within organization.
 
 5th Sheet : Education Field Wise Attrition
+
 This bar graph presents the attrition rates categorized by education fields. It helps determine if there are any specific education fields with higher attrition rates.
 
 6th Sheet : Attrition Rate By Gender For Different Age Group
+
 The donut chart show the attrition rates segmented by gender within different age groups. It provides a visual breakdown of attrition patterns based on age and gender.
 
 
