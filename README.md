@@ -1,8 +1,6 @@
-# HR-Analytics-Power-BI-dashboard-project
-
 # Project Name 
 
-Employee Data Analysis Project using Power BI
+HR-Analytics-Power-BI-dashboard-project
 
 
 # About Project 
