@@ -15,11 +15,11 @@ Excel
 
 Steps Overview :
 
-Dataset collected from online.
-Understanding the Data.
-Data Cleaning & Processing in Power BI
-Power BI Dashboard setup
-Data Visualization.
+1.Dataset collected from online.
+2.Understanding the Data.
+3.Data Cleaning & Processing in Power BI
+4.Power BI Dashboard setup
+5.Data Visualization.
 
 Dashboard Content:
 
