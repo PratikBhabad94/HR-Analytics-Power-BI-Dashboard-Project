@@ -32,7 +32,7 @@ The HR Analytics Dashboard provides a comprehensive view of attrition rate trend
 # Dashboard Content
 
 
-# 1st Sheet : Department level filters.
+1st Sheet : Department level filters.
 
 2nd Sheet : KPIs
 
