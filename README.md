@@ -29,6 +29,13 @@ The HR Analytics Dashboard provides a comprehensive view of attrition rate trend
 •	Data Visualization.
 
 
+# Dashboard
+
+
+![image](https://github.com/user-attachments/assets/5adccc18-1533-4d75-8a23-2aec06b9aba9)
+
+
+
 # Dashboard Content
 
 
