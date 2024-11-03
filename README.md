@@ -36,11 +36,17 @@ The HR Analytics Dashboard provides a comprehensive view of attrition rate trend
 
 2nd Sheet : KPIs
 Employee Count : This provides a snapshot of the total number of employees in organization.
+
 Attrition count : This indicates the number of employees who have left the company.
+
 Attrition Rate : This calculates the percentage of employees who have left, relative to the total employees count.
+
 Average Age : This shows the average Age of the Employees.
+
 Average Salary: This shows the average salary of the Employees.
+
 Average Years: This shows how many years the employee has worked for organization
+
 KPI chart : Distribution between male and female 
 
 3rd Sheet : Attrition by education
