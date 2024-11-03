@@ -85,8 +85,10 @@ This chart shows job roles with higher attrition rates.
 8th sheet : job role
 
 
-• The matrix chart shows job satisfaction ratings for different job roles or positions. It enables us to identify areas of high or low job satisfaction within 
+
+	The matrix chart shows job satisfaction ratings for different job roles or positions. It enables us to identify areas of high or low job satisfaction within 
   organization.
+
 
 
 
